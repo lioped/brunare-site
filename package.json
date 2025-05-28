@@ -1,0 +1,19 @@
+{
+  "name": "brunare",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000r\u0000u\u0000n\u0000a\u0000r\u0000e\u0000-\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "scripts": {
+    "dev": "parcel src/pages/index.html src/pages/despre-blackfast.html src/pages/descriere-procedu.html src/pages/contact.html",
+    "build": "parcel build src/pages/index.html src/pages/despre-blackfast.html src/pages/descriere-procedeu.html src/pages/contact.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.2",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "emailjs-com": "^3.2.0"
+  }
+}
