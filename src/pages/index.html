@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -10,7 +11,208 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="/src/style/style.scss" />
-    <title>Brunare</title>
+    <title>Blackfast-Romania</title>
   </head>
-  <body></body>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg sticky-top">
+        <div class="container d-flex justify-content-between align-items-center">
+          <!-- Logo -->
+          <a class="navbar-brand" href="#">
+            <img src="../images/logoBlackFast.png" alt="Blackfast Logo" class="logo-header" />
+          </a>
+
+          <!-- Buton hamburger: DOAR pe mobil -->
+          <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Meniu desktop (DOAR pe LG și mai mare) -->
+          <ul class="navbar-nav d-none d-lg-flex flex-row align-items-center gap-5 menu-desktop">
+            <li class="nav-item"><a class="nav-link" href="#">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <!-- Offcanvas menu (mobil DOAR sub lg) -->
+      <div class="offcanvas offcanvas-end d-lg-none" tabindex="-1" id="offcanvasNav">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title">Meniu</h5>
+          <button type="button" class="btn-close custom-close" data-bs-dismiss="offcanvas" aria-label="Închide"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav d-flex flex-column gap-3">
+            <li class="nav-item"><a class="nav-link" href="#">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container text-center">
+          <div class="hero__content">
+            <h1 class="hero__title">SOLUȚII DE ÎNEGRIRE A METALELOR PENTRU TOATE NECESITĂȚILE</h1>
+            <p class="hero__description">
+              Blackfast Chemicals produce un produs unic, special conceput pentru înnegrirea fierului, oțelului și aluminiului. Kiturile chimice de înnegrire oferite de companie sunt sigure și ușor de
+              utilizat, asigurând un finisaj metalic de înaltă calitate, rezistent la coroziune și umiditate.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section class="presentation py-5">
+        <div class="container">
+          <div class="row align-items-start">
+            <!-- Stânga: Prezentare generală -->
+            <div class="col-lg-6">
+              <h2 class="section-title mb-4">Prezentare generală</h2>
+              <p>
+                DELTA MACHINE SRL, în calitate de reprezentant exclusiv în România al firmei BLACKFAST CHEMICALS LTD din Anglia, vă oferă soluțiile chimice concentrate pentru realizarea brunării
+                pieselor din fontă, oțel și aluminiu.
+              </p>
+              <p>Brunarea se realizează prin imersia succesivă a pieselor prelucrate în băi cu soluții BLACKFAST. Motivele pentru care ar trebui să implementați acest procedeu de brunare ar fi:</p>
+              <ul class="list-unstyled text-list">
+                <li><span class="icon-check"> Consum energetic minim &ndash; reacția are loc la temperatura mediului ambiant (20&ndash;22°C);</span></li>
+                <li><span class="icon-check">Nu necesită personal cu calificare superioară;</span></li>
+                <li>
+                  <span class="icon-check">
+                    Conferă pieselor tratate o rezistență la coroziune în condiții corespunzătoare de funcționare sau în condiții normale de depozitare la nivelul standardelor actuale (testele cu
+                    umiditate ridicată au arătat o protecție anticorozivă foarte bună la piesele expuse chiar și după 500 de ore, iar protecția anticorozivă în cazul expunerii în ceață salină a fost
+                    de până la 48 de ore, în funcție de uleiul utilizat).
+                  </span>
+                </li>
+                <li>
+                  <span class="icon-check">
+                    Procedeul este eficient economic, având în vedere că 1 litru de soluție concentrată BLACKFAST 181 (colorant) este suficient pentru brunarea a 4&ndash;5 mp suprafață piesă.</span
+                  >
+                </li>
+              </ul>
+            </div>
+
+            <!-- Dreapta: Beneficii -->
+            <div class="col-lg-6">
+              <div class="benefits-box">
+                <div class="benefit">
+                  <i class="bi bi-thermometer-sun"></i>
+                  <div>
+                    <h5>Temperatură ambientală</h5>
+                    <p>Procesul are loc între 20&ndash;22°C, fără încălzire.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-lightning-charge"></i>
+                  <div>
+                    <h5>Consum redus de energie</h5>
+                    <p>Nu necesită sisteme de încălzire costisitoare.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-droplet-half"></i>
+                  <div>
+                    <h5>Soluție concentrată</h5>
+                    <p>Ușor de completat, fără control special.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-wind"></i>
+                  <div>
+                    <h5>Fără emisii de gaze</h5>
+                    <p>Nu e nevoie de sisteme de extracție.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-rocket-takeoff"></i>
+                  <div>
+                    <h5>Gata de utilizare imediat</h5>
+                    <p>Fără perioade de încălzire.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-house-gear"></i>
+                  <div>
+                    <h5>Instalare în spațiu redus</h5>
+                    <p>Funcționează chiar și într-un atelier mic.</p>
+                  </div>
+                </div>
+                <div class="benefit">
+                  <i class="bi bi-tools"></i>
+                  <div>
+                    <h5>Brunare fontă</h5>
+                    <p>Potrivit pentru finisaje durabile pe fontă.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="stats-section py-5">
+        <div class="container">
+          <div class="row text-center">
+            <div class="col-md-3 stat-box">
+              <h2 class="stat-number" data-target="36">0</h2>
+              <div class="stat-line"></div>
+              <p>ani de livrări efectuate în toată lumea</p>
+            </div>
+            <div class="col-md-3 stat-box">
+              <h2 class="stat-number" data-target="20">0</h2>
+              <div class="stat-line"></div>
+              <p>ani de livrări în România</p>
+            </div>
+            <div class="col-md-3 stat-box">
+              <h2 class="stat-number" data-target="80">0</h2>
+              <div class="stat-line"></div>
+              <p>clienți activi în România</p>
+            </div>
+            <div class="col-md-3 stat-box">
+              <h2 class="stat-number" data-target="100" data-percent="true">0</h2>
+              <div class="stat-line"></div>
+              <p>Clienți mulțumiți</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="support-section py-5">
+        <div class="container">
+          <div class="row align-items-center">
+            <!-- Text -->
+            <div class="col-lg-6" id="support-text">
+              <h2 class="section-title mb-4">Asistență tehnică și consultanță</h2>
+              <p>
+                Precizăm că pentru produsele distribuite, asigurăm gratuit documentația tehnică și consultanța tehnică pentru constituirea liniilor de procesare cât și în utilizarea corectă și
+                eficientă a soluțiilor concentrate. Livrarea este însoțită de certificatul de garanție pentru fiecare tip de soluție.
+              </p>
+              <p>
+                Pentru a vă documenta și convinge de fiabilitatea acestui procedeu, la cererea dvs., vă putem face demonstrație și/sau vă putem recomanda firme din România care aplică aceste
+                tehnologii de conservare a suprafețelor pieselor din fontă, oțel sau aluminiu.
+              </p>
+              <p>Pentru mai multe informații nu ezitați să <a href="#contact" class="text-orange fw-bold">ne contactați</a>.</p>
+            </div>
+            <!-- Imagine -->
+            <div class="col-lg-6 text-center mt-4 mt-lg-0" id="support-image">
+              <img src="../images/gears.png" alt="Suport tehnic" class="img-fluid support-img" />
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer py-4">
+      <div class="container text-center text-white">
+        <h5 class="footer-title">BLACKFAST</h5>
+        <p>În România prin <strong>DELTA MACHINE SRL</strong></p>
+        <p>Str. Pandele Țărușanu nr. 8, Sector 1, București</p>
+        <p>Tel: 021.223.0345 / 021.223.0391 &nbsp;|&nbsp; Mobil: 0723.190.249</p>
+        <p>Email: <a href="mailto:deltam@deltamail.ro" class="footer-link">deltam@deltamail.ro</a></p>
+        <hr class="footer-divider my-3" />
+        <small>&copy; 2018 by DELTA MACHINE SRL</small>
+      </div>
+    </footer>
+    <script type="module" src="../js/index.js"></script>
+  </body>
 </html>
