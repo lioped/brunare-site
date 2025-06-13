@@ -1,5 +1,9 @@
 @use "../../node_modules/bootstrap/scss/bootstrap" as *;
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -37,7 +41,7 @@ header {
 
   .menu-desktop {
     margin-left: 100px;
-    padding-top: 20px; // ajustează după nevoie (poți testa și 18px, 22px...)
+    padding-top: 50px !important; // ajustează după nevoie (poți testa și 18px, 22px...)
 
     .nav-link {
       color: #eb5d0b;
@@ -395,5 +399,123 @@ header {
 
   a:hover {
     color: #fff;
+  }
+}
+
+// Media-queries
+
+@media (max-width: 1399px) {
+  .menu-desktop .nav-link {
+    font-size: 1.1rem !important; // mai mic decât 1.4rem
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar-toggler {
+    margin-top: 50px; // ajustează în funcție de cât de jos vrei să fie
+  }
+}
+
+//Despre blackfast
+
+.hero-blackfast {
+  margin-bottom: 3.125rem;
+  position: relative;
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("../images/bg-cogs.jpg");
+}
+
+.despre-blackfast-section {
+  .section-title {
+    color: #eb5d0b;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.domeniu-section {
+  .section-title {
+    color: #eb5d0b;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+
+  .icon-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+
+    .icon-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 2rem;
+
+      .icon-domeniu {
+        font-size: 1.7rem;
+        color: #eb5d0b;
+      }
+
+      .fw-semibold {
+        font-weight: 600;
+        margin: 0;
+        color: #000;
+      }
+    }
+  }
+}
+
+.clienti-section {
+  .section-title {
+    font-weight: 700;
+    font-size: 2rem;
+    color: #eb5d0b;
+  }
+
+  .logo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    row-gap: 2rem;
+  }
+
+  .logo-client {
+    max-height: 80px;
+    width: auto;
+    object-fit: contain;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0.85;
+
+    &:hover {
+      transform: scale(1.05);
+      opacity: 1;
+    }
   }
 }

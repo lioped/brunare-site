@@ -1,4 +1,11 @@
 import "bootstrap";
+import AOS from "aos";
+import "aos/dist/aos.css";
+
+AOS.init({
+  duration: 800, // cât durează animația (în ms)
+  once: true, // 🔥 nu mai reanimează la scroll înapoi
+});
 
 window.addEventListener("scroll", () => {
   const hero = document.querySelector(".hero");

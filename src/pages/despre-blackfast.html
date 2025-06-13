@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/style/style.scss" />
+    <title>Despre Blackfast</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg sticky-top">
+        <div class="container d-flex justify-content-between align-items-center">
+          <!-- Logo -->
+          <a class="navbar-brand" href="#">
+            <img src="../images/logoBlackFast.png" alt="Blackfast Logo" class="logo-header" />
+          </a>
+
+          <!-- Buton hamburger: DOAR pe mobil -->
+          <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Meniu desktop (DOAR pe LG și mai mare) -->
+          <ul class="navbar-nav d-none d-lg-flex flex-row align-items-center gap-5 menu-desktop">
+            <li class="nav-item"><a class="nav-link" href="#">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="despre-blackfast.html">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <!-- Offcanvas menu (mobil DOAR sub lg) -->
+      <div class="offcanvas offcanvas-end d-lg-none" tabindex="-1" id="offcanvasNav">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title">Meniu</h5>
+          <button type="button" class="btn-close custom-close" data-bs-dismiss="offcanvas" aria-label="Închide"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav d-flex flex-column gap-3">
+            <li class="nav-item"><a class="nav-link" href="#">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="despre-blackfast.html">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <!-- Hero Section -->
+    <section class="hero-blackfast text-white d-flex align-items-center">
+      <div class="container text-center">
+        <h1 class="display-4 fw-bold">Blackfast Chemicals</h1>
+        <p class="lead">Inovație britanică în brunarea chimică la rece a metalelor</p>
+      </div>
+    </section>
+    <section class="despre-blackfast-section py-5" data-aos="zoom-in-up">
+      <div class="container">
+        <!-- Titlu pe mijloc -->
+        <h2 class="text-center section-title mb-5">Despre Blackfast</h2>
+
+        <div class="row align-items-center">
+          <!-- Textul în stânga -->
+          <div class="col-md-6">
+            <p>Compania Blackfast Chemicals este specializată în producerea de soluții chimice pentru brunarea la rece a pieselor din fontă, oțel sau aluminiu.</p>
+            <p>Brunarea la rece este un proces chimic prin imersie ce are loc la temperatura mediului ambiant (circa 20 de grade Celsius).</p>
+            <p>
+              Avantajul acestui procedeu de brunare constă în faptul că la înnegrire dimensiunile pieselor nu se modifică. Orice producător de componente industriale de precizie care necesită un
+              finisaj decorativ, este un potențial client pentru noi.
+            </p>
+          </div>
+
+          <!-- Imagine în dreapta -->
+          <div class="col-md-6 text-center">
+            <img src="../images/black-oxide-coating_v2.jpg" alt="Despre Blackfast" class="img-fluid rounded shadow" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="domeniu-section py-5" data-aos="zoom-in-up">
+      <div class="container">
+        <h2 class="text-center section-title mb-5">Domeniul de aplicabilitate</h2>
+
+        <div class="row align-items-start">
+          <!-- Text în stânga -->
+          <div class="col-md-6">
+            <p>
+              Compania Blackfast Chemicals din Marea Britanie, specializată în producerea de soluții chimice pentru brunare la rece a pieselor din fontă, oțel și aluminiu vinde cu succes gama sa de
+              produse la companii industriale constructoare de mașini din Anglia, cât și din străinătate.
+            </p>
+            <p>
+              Clienții pentru aceste produse sunt companii care produc componente din oțel, fontă sau aluminiu. O finisare uniformă în negru a acestor componente este în prezent de mare actualitate și
+              adaugă un plus de valoare produsului.
+            </p>
+            <p>Compania are în prezent clienți care utilizează produse pentru înnegrire de la 25l/an până la 10.000l/an. Numai pe piața din SUA se înregistrează un volum de cca. 10 mil USD/an.</p>
+          </div>
+
+          <!-- Iconițe verticale în dreapta -->
+          <div class="col-md-6 text-center icon-col">
+            <div class="icon-item">
+              <i class="bi bi-wrench-adjustable icon-domeniu"></i>
+              <p class="fw-semibold">Scule de mână</p>
+            </div>
+
+            <div class="icon-item">
+              <i class="bi bi-car-front-fill icon-domeniu"></i>
+              <p class="fw-semibold">Piese auto</p>
+            </div>
+
+            <div class="icon-item">
+              <i class="bi bi-gear-fill icon-domeniu"></i>
+              <p class="fw-semibold">Componente de precizie</p>
+            </div>
+
+            <div class="icon-item">
+              <i class="bi bi-building-gear icon-domeniu"></i>
+              <p class="fw-semibold">Echipamente industriale</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="clienti-section py-5" data-aos="zoom-in-up">
+      <div class="container">
+        <h2 class="text-center section-title mb-5">Clienți internaționali care utilizează soluțiile Blackfast</h2>
+
+        <div class="logo-gallery d-flex flex-wrap justify-content-center align-items-center gap-5">
+          <img src="../images/sandvik.png" class="logo-client" alt="Sandvik" />
+          <img src="../images/Bahco_logo.svg.png" class="logo-client" alt="Bahco" />
+          <img src="../images/starrett.png" class="logo-client" alt="Starrett" />
+          <img src="../images/mazak.png" class="logo-client" alt="Mazak" />
+          <img src="../images/Skyes-Pickavant_Small_Alt_NoBG.png" class="logo-client" alt="Sykes Pickavant" />
+          <img src="../images/th_addison-mckee.png" class="logo-client" alt="Addison McKee" />
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer py-4">
+      <div class="container text-center text-white">
+        <h5 class="footer-title">BLACKFAST</h5>
+        <p>În România prin <strong>DELTA MACHINE SRL</strong></p>
+        <p>Str. Pandele Țărușanu nr. 8, Sector 1, București</p>
+        <p>Tel: 021.223.0345 / 021.223.0391 &nbsp;|&nbsp; Mobil: 0723.190.249</p>
+        <p>Email: <a href="mailto:deltam@deltamail.ro" class="footer-link">deltam@deltamail.ro</a></p>
+        <hr class="footer-divider my-3" />
+        <small>&copy; 2018 by DELTA MACHINE SRL</small>
+      </div>
+    </footer>
+    <script type="module" src="../js/index.js"></script>
+  </body>
+</html>
