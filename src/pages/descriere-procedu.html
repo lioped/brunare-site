@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="../favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="../favicon/favicon.svg" />
+    <link rel="shortcut icon" href="../favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="../favicon/site.webmanifest" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/style/style.scss" />
+    <title>Despre Blackfast</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg sticky-top">
+        <div class="container d-flex justify-content-between align-items-center">
+          <!-- Logo -->
+          <a class="navbar-brand" href="#">
+            <img src="../images/logoBlackFast.png" alt="Blackfast Logo" class="logo-header" />
+          </a>
+
+          <!-- Buton hamburger: DOAR pe mobil -->
+          <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Meniu desktop (DOAR pe LG și mai mare) -->
+          <ul class="navbar-nav d-none d-lg-flex flex-row align-items-center gap-5 menu-desktop">
+            <li class="nav-item"><a class="nav-link" href="index.html">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="despre-blackfast.html">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="descriere-procedu.html">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- Offcanvas menu (mobil DOAR sub lg) -->
+      <div class="offcanvas offcanvas-end d-lg-none" tabindex="-1" id="offcanvasNav">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title">Meniu</h5>
+          <button type="button" class="btn-close custom-close" data-bs-dismiss="offcanvas" aria-label="Închide"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav d-flex flex-column gap-3">
+            <li class="nav-item"><a class="nav-link" href="index.html">Prezentare generala</a></li>
+            <li class="nav-item"><a class="nav-link" href="despre-blackfast.html">Despre Blackfast</a></li>
+            <li class="nav-item"><a class="nav-link" href="descriere-procedu.html">Descriere procedeului</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <main>
+      <section class="etape-procedeu py-5">
+        <div class="container">
+          <h2 class="text-center section-title mb-5">Pașii procedurii de brunare</h2>
+
+          <div class="etape-grid">
+            <!-- Pas 1 -->
+            <div class="etapa" data-aos="fade-up" data-aos-delay="0">
+              <div class="eticheta-pas">Pasul 01</div>
+              <div class="baie chimic">
+                <div class="cod">0716</div>
+                <div class="durata">15-20 min</div>
+              </div>
+              <div class="baie clatire">
+                <div class="cod">CLĂTIRE</div>
+                <div class="durata">60 sec</div>
+              </div>
+              <p class="detalii">1:1 Apă - Soluție</p>
+              <h5 class="titlu">Degresare</h5>
+            </div>
+
+            <div class="linie"></div>
+
+            <!-- Pas 2 -->
+            <div class="etapa" data-aos="fade-up" data-aos-delay="100">
+              <div class="eticheta-pas">Pasul 02</div>
+              <div class="baie chimic">
+                <div class="cod">0551</div>
+                <div class="durata">1 min</div>
+              </div>
+              <div class="baie clatire">
+                <div class="cod">CLĂTIRE</div>
+                <div class="durata">60 sec</div>
+              </div>
+              <p class="detalii">9:1 Apă - Soluție</p>
+              <h5 class="titlu">Condiționare</h5>
+            </div>
+
+            <div class="linie"></div>
+
+            <!-- Pas 3 -->
+            <div class="etapa" data-aos="fade-up" data-aos-delay="200">
+              <div class="eticheta-pas">Pasul 03</div>
+              <div class="baie chimic">
+                <div class="cod">0181</div>
+                <div class="durata">1 min</div>
+              </div>
+              <div class="baie clatire">
+                <div class="cod">CLĂTIRE</div>
+                <div class="durata">60 sec</div>
+              </div>
+              <p class="detalii">3:1 Apă - Soluție</p>
+              <h5 class="titlu">Înnegrire</h5>
+            </div>
+
+            <div class="linie"></div>
+
+            <!-- Pas 4 -->
+            <div class="etapa" data-aos="fade-up" data-aos-delay="300">
+              <div class="eticheta-pas">Pasul 04</div>
+              <div class="baie chimic">
+                <div class="cod">0925</div>
+                <div class="durata">15-20 min</div>
+              </div>
+              <div class="baie clatire">
+                <div class="cod">USCARE</div>
+              </div>
+              <p class="detalii">4:1 Apă - Soluție</p>
+              <h5 class="titlu">Uleiere</h5>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="fise-produse py-5">
+        <div class="container">
+          <h2 class="text-center section-title mb-4">Fișe de produs și instrucțiuni</h2>
+
+          <ul class="lista-produse">
+            <li>
+              <strong>Soluție de degresare Blackfast 716</strong>
+              <div class="linkuri">
+                <a href="../pdf/Blackfast 716.pdf" target="_blank">instrucțiuni aplicare</a>
+                <a href="../pdf/716.pdf" target="_blank">fișa de securitate</a>
+              </div>
+            </li>
+            <li>
+              <strong>Soluție de condiționare Blackfast 551</strong>
+              <div class="linkuri">
+                <a href="../pdf/Blackfast 551.pdf" target="_blank">instrucțiuni aplicare</a>
+                <a href="../pdf/551.pdf" target="_blank">fișa de securitate</a>
+              </div>
+            </li>
+            <li>
+              <strong>Soluție de înnegrire Blackfast 181</strong>
+              <div class="linkuri">
+                <a href="../pdf/Blackfast 181.pdf" target="_blank">instrucțiuni aplicare</a>
+                <a href="../pdf/181.pdf" target="_blank">fișa de securitate</a>
+              </div>
+            </li>
+            <li>
+              <strong>Ulei pentru protecție Blackfast 925</strong>
+              <div class="linkuri">
+                <a href="../pdf/Blackfast 925.pdf" target="_blank">instrucțiuni aplicare</a>
+                <a href="../pdf//Blackfast 925.pdf" target="_blank">fișa de securitate</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section class="sectiune-video py-5">
+        <div class="container text-center">
+          <h2 class="section-title mb-4">Vă prezentăm un film introductiv despre procedeul de brunare Blackfast.</h2>
+
+          <div class="video-container mb-4">
+            <iframe
+              src="https://www.youtube.com/embed/23iMw-_oXRk"
+              title="Film brunare Blackfast"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            >
+            </iframe>
+          </div>
+
+          <p class="contact-text">Pentru lista de prețuri vă rugăm să ne contactați la telefon <strong>0723.190.249</strong>.</p>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer py-4">
+      <div class="container text-center text-white">
+        <h5 class="footer-title">BLACKFAST</h5>
+        <p>În România prin <strong>DELTA MACHINE SRL</strong></p>
+        <p>Str. Pandele Țărușanu nr. 8, Sector 1, București</p>
+        <p>Tel: 021.223.0345 / 021.223.0391 &nbsp;|&nbsp; Mobil: 0723.190.249</p>
+        <p>Email: <a href="mailto:deltam@deltamail.ro" class="footer-link">deltam@deltamail.ro</a></p>
+        <hr class="footer-divider my-3" />
+        <small>&copy; 2018 by DELTA MACHINE SRL</small>
+      </div>
+    </footer>
+    <script type="module" src="../js/index.js"></script>
+  </body>
+</html>

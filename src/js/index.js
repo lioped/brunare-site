@@ -1,6 +1,7 @@
 import "bootstrap";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import emailjs from "@emailjs/browser";
 
 AOS.init({
   duration: 800, // cât durează animația (în ms)
@@ -10,10 +11,13 @@ AOS.init({
 window.addEventListener("scroll", () => {
   const hero = document.querySelector(".hero");
   const content = document.querySelector(".hero__content");
+
+  if (!hero || !content) return; // 🔒 oprește funcția dacă lipsește oricare
+
   const offset = window.scrollY;
 
   hero.style.backgroundPositionY = `${offset * 0.5}px`;
-  content.style.transform = `translateY(${offset * 0.2}px)`; // mișcare ușoară și sincronă
+  content.style.transform = `translateY(${offset * 0.2}px)`;
 });
 
 function animateCounters() {
@@ -72,3 +76,32 @@ const observer2 = new IntersectionObserver(
 );
 
 if (supportSection) observer2.observe(supportSection);
+
+const form = document.getElementById("contact-form");
+const thankYouMessage = document.getElementById("thank-you-message");
+const title = document.querySelector(".section-title");
+const contactSection = document.querySelector(".contact-section");
+
+if (form) {
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    // Previne ridicarea footerului
+    contactSection.style.minHeight = contactSection.offsetHeight + "px";
+
+    emailjs
+      .sendForm("service_pbnverp", "template_iqdlv13", form, "sO9m6w1J6FSg5Yh2i")
+      .then(() => {
+        form.style.display = "none";
+        thankYouMessage.style.display = "block";
+        if (title) title.style.display = "none";
+
+        setTimeout(() => {
+          window.location.href = "index.html";
+        }, 5000);
+      })
+      .catch((error) => {
+        console.error("Eroare la trimitere:", error);
+      });
+  });
+}

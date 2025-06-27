@@ -10,10 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.15.2",
     "@parcel/transformer-sass": "^2.15.2",
+    "@parcel/transformer-webmanifest": "^2.15.2",
     "parcel": "^2.15.2"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@popperjs/core": "^2.11.8",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.6",
