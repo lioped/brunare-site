@@ -1,11 +1,11 @@
-4645
+4630
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\KZ.js133928893316494947 0
 75C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\cjs\_ts_param.cjs133928893312194887 0
 54C:\Users\Lioped\Desktop\brunare\node_modules\@mischnic133928893308409603 1
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\AX.js133928893311734871 0
 66C:\Users\Lioped\Desktop\brunare\node_modules\msgpackr\package.json133928893311469805 0
 95C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133928893323810095 0
-44C:\Users\Lioped\Desktop\brunare\dist\up_\pdf133954830530498749 1
+44C:\Users\Lioped\Desktop\brunare\dist\up_\pdf133960838443043304 1
 42C:\Users\Lioped\Desktop\brunare\src\images133945450593111687 1
 97C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\page-transition-events.js133928893317692267 0
 100C:\Users\Lioped\Desktop\brunare\node_modules\react\cjs\react-jsx-runtime.react-server.development.js133929130438263866 0
@@ -20,7 +20,7 @@
 90C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133928893334559290 0
 94C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133928893311098075 0
 97C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133928893327234380 0
-44C:\Users\Lioped\Desktop\brunare\package.json133945459349667043 0
+44C:\Users\Lioped\Desktop\brunare\package.json133960838216120075 0
 77C:\Users\Lioped\Desktop\brunare\node_modules\postcss-value-parser\lib\walk.js133928893310548081 0
 85C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\runtime-browser-hmr\package.json133928893324040091 0
 64C:\Users\Lioped\Desktop\brunare\node_modules\react-dom\server.js133929130439025175 0
@@ -42,7 +42,7 @@
 94C:\Users\Lioped\Desktop\brunare\node_modules\react-dom\cjs\react-dom-server.node.production.js133929130438965174 0
 65C:\Users\Lioped\Desktop\brunare\node_modules\weak-lru-cache\tests133928893310528075 1
 83C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\js\dist\util\backdrop.js.map133929042534892037 0
-36C:\Users\Lioped\Desktop\brunare\dist133954831253249054 1
+36C:\Users\Lioped\Desktop\brunare\dist133960838443159903 1
 94C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133928893312144865 0
 75C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\bin\download-prebuilds.js133928893312836964 0
 89C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\js\dist\dom\selector-engine.js.map133929042535811090 0
@@ -54,7 +54,7 @@
 82C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_new_arrow_check.mjs133928893315267944 0
 70C:\Users\Lioped\Desktop\brunare\node_modules\emailjs-com\es\index.d.ts133928919843526572 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\package.json133929130438806441 0
-42C:\Users\Lioped\Desktop\brunare\.gitignore133928896675456093 0
+42C:\Users\Lioped\Desktop\brunare\.gitignore133960838961401213 0
 63C:\Users\Lioped\Desktop\brunare\node_modules\sass\sass.node.mjs133928924428172415 0
 43C:\Users\Lioped\Desktop\brunare\src\favicon133945454941731050 1
 60C:\Users\Lioped\Desktop\brunare\node_modules\json5\README.md133928893311038077 0
@@ -93,7 +93,7 @@
 79C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\runtime-service-worker\lib133928893323670120 1
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\PR.js133928893318012262 0
 81C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\dist\SourceMap.js133928893311068078 0
-54C:\Users\Lioped\Desktop\brunare\src\pages\contact.html133945505749838594 0
+54C:\Users\Lioped\Desktop\brunare\src\pages\contact.html133954844695117085 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\core\test\fixtures\library-scopehoist133928893339231839 1
 121C:\Users\Lioped\Desktop\brunare\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133928893339427254 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\GG.js133928893315227951 0
@@ -102,7 +102,7 @@
 96C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\utils\isHeadless\isHeadless.js133945322824133476 0
 92C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-width-stretch.js133928893314131156 0
 38C:\Users\Lioped\Desktop\brunare\src\js133928897013516590 1
-41C:\Users\Lioped\Desktop\brunare\src\pages133928889488834177 1
+41C:\Users\Lioped\Desktop\brunare\src\pages133954843160700907 1
 73C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\scss\_buttons.scss133929042536176354 0
 54C:\Users\Lioped\Desktop\brunare\node_modules\react-dom133929130439076549 1
 93C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133928893315277943 0
@@ -124,7 +124,7 @@
 100C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133928893311118070 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\react-dom\cjs\react-dom-client.development.js133929130438238790 0
 96C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\constraint-validation.js133928893312576972 0
-52C:\Users\Lioped\Desktop\brunare\src\style\style.scss133945371158961137 0
+52C:\Users\Lioped\Desktop\brunare\src\style\style.scss133954849195134759 0
 79C:\Users\Lioped\Desktop\brunare\node_modules\msgpackr\dist\index-no-eval.min.js133928893311058076 0
 89C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\rel-noreferrer.js133928893318412292 0
 69C:\Users\Lioped\Desktop\brunare\src\images\black-oxide-coating_v2.jpg133942030223138681 0
@@ -168,7 +168,7 @@
 58C:\Users\Lioped\Desktop\brunare\node_modules\dotenv-expand133928893310758074 1
 102C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133928893312174877 0
 73C:\Users\Lioped\Desktop\brunare\node_modules\node-addon-api\noexcept.gypi133928893310498083 0
-64C:\Users\Lioped\Desktop\brunare\src\pages\descriere-procedu.html133945505692826669 0
+64C:\Users\Lioped\Desktop\brunare\src\pages\descriere-procedu.html133954844572069875 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\x-frame-options.js133928893320195481 0
 92C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_async_to_generator\package.json133928893313641169 0
 63C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\logger\lib133928893334549302 1
@@ -179,19 +179,30 @@
 93C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\feature-flags\test\feature-flags.test.js133928893334829506 0
 105C:\Users\Lioped\Desktop\brunare\node_modules\react-dom\cjs\react-dom-server-legacy.browser.development.js133929130438480273 0
 55C:\Users\Lioped\Desktop\brunare\src\favicon\favicon.svg133945454630396163 0
-63C:\Users\Lioped\Desktop\brunare\src\pages\despre-blackfast.html133945505648068961 0
-79C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\scss\bootstrap-grid.scss133929042536974338 0
-92C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\esm\_apply_decorated_descriptor.js133928893312334876 0
-91C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\broadcastchannel.js133928893312144865 0
-93C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133928893311118070 0
-71C:\Users\Lioped\Desktop\brunare\node_modules\react-refresh\package.json133928893310758074 0
-53C:\Users\Lioped\Desktop\brunare\node_modules\chokidar133928924427952400 1
-78C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\ttf.js133928893319460414 0
-76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\AI.js133928893311078073 0
-72C:\Users\Lioped\Desktop\brunare\node_modules\sass\types\value\index.d.ts133928924428319004 0
+63C:\Users\Lioped\Desktop\brunare\src\pages\despre-blackfast.html133954844497612176 0
 65C:\Users\Lioped\Desktop\brunare\node_modules\@swc\core\spack.d.ts133928893311098075 0
-52C:\Users\Lioped\Desktop\brunare\src\pages\index.html133954831253031850 0
+52C:\Users\Lioped\Desktop\brunare\src\pages\index.html133960836246032463 0
 61C:\Users\Lioped\Desktop\brunare\node_modules\get-port\license133928893310333672 0
+97C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\isHeadless\isHeadless.d.ts133945322824780371 0
+79C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\src\react\hooks133929130442283683 1
+57C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite133928893320255483 1
+49C:\Users\Lioped\Desktop\brunare\node_modules\@swc133945459349647040 1
+76C:\Users\Lioped\Desktop\brunare\node_modules\semver\ranges\min-satisfying.js133928893311359816 0
+67C:\Users\Lioped\Desktop\brunare\node_modules\scheduler\package.json133929130438238790 0
+82C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\picture.js133928893317902252 0
+76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\MU.js133928893317224982 0
+63C:\Users\Lioped\Desktop\brunare\node_modules\chrome-trace-event133928893310528075 1
+52C:\Users\Lioped\Desktop\brunare\src\images\mazak.png133942090927668448 0
+95C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133928893319925483 0
+76C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_define_property133928893314101165 1
+78C:\Users\Lioped\Desktop\brunare\node_modules\source-map-js\lib\mapping-list.js133928924427552555 0
+95C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-case-insensitive.js133928893312906964 0
+102C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133928893310638070 0
+82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\transformer-node\package.json133928893321834550 0
+87C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\core\src\requests\TargetRequest.js133928893338701841 0
+104C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\src\react\hooks\useGetTransitionValue.ts133929130442257993 0
+55C:\Users\Lioped\Desktop\brunare\src\pages\products.html133954848760294919 0
+69C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\watcher\src\unix133928893311008072 1
 78C:\Users\Lioped\Desktop\brunare\node_modules\semver\functions\compare-loose.js133928893310858076 0
 91C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\dist\umd\popper-lite.min.js.map133929042534105702 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\@msgpackr-extract133945459349657042 1
@@ -232,16 +243,6 @@
 54C:\Users\Lioped\Desktop\brunare\src\images\sandvik.png133942090461445453 0
 60C:\Users\Lioped\Desktop\brunare\src\images\logoBlackFast.png133928224586516962 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\payment-request.js133928893317772256 0
-97C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\isHeadless\isHeadless.d.ts133945322824780371 0
-79C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\src\react\hooks133929130442283683 1
-57C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite133928893320255483 1
-49C:\Users\Lioped\Desktop\brunare\node_modules\@swc133945459349647040 1
-76C:\Users\Lioped\Desktop\brunare\node_modules\semver\ranges\min-satisfying.js133928893311359816 0
-67C:\Users\Lioped\Desktop\brunare\node_modules\scheduler\package.json133929130438238790 0
-82C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\picture.js133928893317902252 0
-76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\MU.js133928893317224982 0
-63C:\Users\Lioped\Desktop\brunare\node_modules\chrome-trace-event133928893310528075 1
-52C:\Users\Lioped\Desktop\brunare\src\images\mazak.png133942090927668448 0
 55C:\Users\Lioped\Desktop\brunare\src\images\starrett.png133942090665262295 0
 82C:\Users\Lioped\Desktop\brunare\node_modules\@lmdb\lmdb-win32-x64\node.abi115.node133928893311098075 0
 70C:\Users\Lioped\Desktop\brunare\node_modules\lodash.throttle\README.md133942095090380807 0
@@ -313,6 +314,15 @@
 57C:\Users\Lioped\Desktop\brunare\node_modules\browserslist133928893311088075 1
 60C:\Users\Lioped\Desktop\brunare\node_modules\semver\index.js133928893311238071 0
 78C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\rem.js133928893318433632 0
+79C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\scss\bootstrap-grid.scss133929042536974338 0
+92C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\esm\_apply_decorated_descriptor.js133928893312334876 0
+91C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\broadcastchannel.js133928893312144865 0
+93C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133928893311118070 0
+71C:\Users\Lioped\Desktop\brunare\node_modules\react-refresh\package.json133928893310758074 0
+53C:\Users\Lioped\Desktop\brunare\node_modules\chokidar133928924427952400 1
+78C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\ttf.js133928893319460414 0
+76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\AI.js133928893311078073 0
+72C:\Users\Lioped\Desktop\brunare\node_modules\sass\types\value\index.d.ts133928924428319004 0
 63C:\Users\Lioped\Desktop\brunare\node_modules\classlist-polyfill133942095090390793 1
 78C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\cjs\_export_star.cjs133928893311624868 0
 85C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\reporter-dev-server\package.json133928893333087085 0
@@ -357,7 +367,7 @@
 98C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\getComputedStyle.js.flow133929042534252339 0
 94C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133928893323750084 0
 53C:\Users\Lioped\Desktop\brunare\node_modules\escalade133928893310798072 1
-62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 716.pdf133954830529119957 0
+62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 716.pdf133960838442883308 0
 82C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\svg-img.js133928893319193039 0
 94C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133928893312044880 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\GI.js133928893315237945 0
@@ -822,7 +832,6 @@
 67C:\Users\Lioped\Desktop\brunare\node_modules\to-regex-range\LICENSE133928893310182793 0
 85C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133928893312776964 0
 64C:\Users\Lioped\Desktop\brunare\node_modules\braces\package.json133928893310758074 0
-65C:\Users\Lioped\Desktop\brunare\dist\despre-blackfast.3f6e507b.js133942107874749703 0
 71C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\utils133945322824569477 1
 70C:\Users\Lioped\Desktop\brunare\node_modules\node-addon-api\LICENSE.md133928893311238071 0
 86C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-lch-lab.js133928893313468560 0
@@ -921,15 +930,6 @@
 67C:\Users\Lioped\Desktop\brunare\node_modules\react-refresh\babel.js133928893310122798 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\FI.js133928893314827932 0
 69C:\Users\Lioped\Desktop\brunare\node_modules\semver\ranges\outside.js133928893311409814 0
-95C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\wasm-mutable-globals.js133928893319925483 0
-76C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_define_property133928893314101165 1
-78C:\Users\Lioped\Desktop\brunare\node_modules\source-map-js\lib\mapping-list.js133928924427552555 0
-95C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-case-insensitive.js133928893312906964 0
-102C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133928893310638070 0
-82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\transformer-node\package.json133928893321834550 0
-87C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\core\src\requests\TargetRequest.js133928893338701841 0
-104C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\src\react\hooks\useGetTransitionValue.ts133929130442257993 0
-69C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\watcher\src\unix133928893311008072 1
 76C:\Users\Lioped\Desktop\brunare\node_modules\source-map-js\lib\quick-sort.js133928924427572549 0
 88C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133928893315364834 0
 104C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133928893311674867 0
@@ -972,7 +972,7 @@
 78C:\Users\Lioped\Desktop\brunare\node_modules\simple-parallax-js\vite.config.ts133929130442283683 0
 84C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs133928893311824873 0
 80C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\rust-win32-x64-msvc\LICENSE133928893315639909 0
-55C:\Users\Lioped\Desktop\brunare\dist\mazak.3fdb3d86.png133954830529123270 0
+55C:\Users\Lioped\Desktop\brunare\dist\mazak.3fdb3d86.png133960838442853304 0
 87C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\rel-noopener.js133928893318392302 0
 69C:\Users\Lioped\Desktop\brunare\node_modules\node-addon-api\README.md133928893311258070 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\sass\types\legacy133928924428648488 1
@@ -1321,7 +1321,7 @@
 70C:\Users\Lioped\Desktop\brunare\node_modules\lmdb\src\v8-functions.cpp133928893312441885 0
 69C:\Users\Lioped\Desktop\brunare\node_modules\react-dom\static.edge.js133929130439045173 0
 89C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133928893332997082 0
-54C:\Users\Lioped\Desktop\brunare\dist\hero.22dc911d.jpg133954830529529213 0
+54C:\Users\Lioped\Desktop\brunare\dist\hero.22dc911d.jpg133960838442863301 0
 114C:\Users\Lioped\Desktop\brunare\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133928893310122798 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\parcel\src\bin.js133928893330118074 0
 70C:\Users\Lioped\Desktop\brunare\node_modules\aos\src\sass\_easing.scss133942095090919455 0
@@ -1508,7 +1508,7 @@
 102C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133928893315147948 0
 65C:\Users\Lioped\Desktop\brunare\node_modules\ordered-binary\tests133928893310558073 1
 73C:\Users\Lioped\Desktop\brunare\node_modules\ordered-binary\tests\test.js133928893310598070 0
-72C:\Users\Lioped\Desktop\brunare\dist\black-oxide-coating_v2.b51118b0.jpg133954830529529213 0
+72C:\Users\Lioped\Desktop\brunare\dist\black-oxide-coating_v2.b51118b0.jpg133960838442863301 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\commander\LICENSE133928893310022800 0
 81C:\Users\Lioped\Desktop\brunare\node_modules\ordered-binary\assets\powers-dre.png133928893310978074 0
 78C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\scss\_placeholders.scss133929042536464481 0
@@ -1940,7 +1940,7 @@
 90C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\dist\css\bootstrap-grid.min.css.map133929042534973111 0
 96C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\error-overlay\src\components\Collapsible.js133928893315424832 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\is-number\LICENSE133928893310172801 0
-59C:\Users\Lioped\Desktop\brunare\dist\pages.08963856.css.map133954830530739493 0
+59C:\Users\Lioped\Desktop\brunare\dist\pages.08963856.css.map133960838443073308 0
 58C:\Users\Lioped\Desktop\brunare\node_modules\aos\yarn.lock133942095090739441 0
 67C:\Users\Lioped\Desktop\brunare\node_modules\is-number\package.json133928893309972793 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\ML.js133928893317054991 0
@@ -1961,7 +1961,7 @@
 66C:\Users\Lioped\Desktop\brunare\node_modules\has-flag\package.json133928893309982793 0
 63C:\Users\Lioped\Desktop\brunare\node_modules\has-flag\readme.md133928893310425151 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\classlist-polyfill\package.json133942095090301072 0
-52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\716.pdf133954830529143278 0
+52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\716.pdf133960838442863301 0
 88C:\Users\Lioped\Desktop\brunare\node_modules\emailjs-com\es\methods\sendForm\sendForm.js133928919843480881 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\globals\readme.md133928893310508072 0
 64C:\Users\Lioped\Desktop\brunare\node_modules\get-port\index.d.ts133928893310102799 0
@@ -2125,7 +2125,7 @@
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\KM.js133928893316434865 0
 92C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\esm\_initializer_warning_helper.js133928893312946963 0
 73C:\Users\Lioped\Desktop\brunare\node_modules\color-convert\conversions.js133928893310222796 0
-55C:\Users\Lioped\Desktop\brunare\dist\pages.08963856.css133954830530699519 0
+55C:\Users\Lioped\Desktop\brunare\dist\pages.08963856.css133960838443043304 0
 67C:\Users\Lioped\Desktop\brunare\node_modules\color-convert\index.js133928893310344045 0
 59C:\Users\Lioped\Desktop\brunare\node_modules\bootstrap\dist133929042534242298 1
 66C:\Users\Lioped\Desktop\brunare\node_modules\color-convert\LICENSE133928893310455142 0
@@ -2149,7 +2149,6 @@
 91C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-color-adjust.js133928893312936963 0
 97C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133928893314997941 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\core\test133928893339031836 1
-69C:\Users\Lioped\Desktop\brunare\dist\despre-blackfast.3f6e507b.js.map133942107875412169 0
 79C:\Users\Lioped\Desktop\brunare\node_modules\classlist-polyfill\tests\remove.js133942095090390793 0
 83C:\Users\Lioped\Desktop\brunare\node_modules\classlist-polyfill\tests\runner.coffee133942095090410792 0
 75C:\Users\Lioped\Desktop\brunare\node_modules\classlist-polyfill\script\test133942095090360788 0
@@ -2380,7 +2379,7 @@
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\MD.js133928893316874979 0
 62C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\types\src133928893316209909 1
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\MG.js133928893317014975 0
-58C:\Users\Lioped\Desktop\brunare\dist\despre-blackfast.html133954830529989206 0
+58C:\Users\Lioped\Desktop\brunare\dist\despre-blackfast.html133960838443033308 0
 82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\core\lib\public\Dependency.js133928893337409334 0
 92C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133928893313811177 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\caniuse-lite\data\regions\MH.js133928893317014975 0
@@ -3324,7 +3323,7 @@
 63C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\graph\test133928893316405899 1
 89C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_super_prop_base\package.json133928893314567938 0
 89C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_sliced_to_array\package.json133928893314557932 0
-52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\551.pdf133954830529082056 0
+52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\551.pdf133960838442813309 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_set_prototype_of\package.json133928893314497938 0
 81C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_overload_yield.mjs133928893315323449 0
 77C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\_\_set\package.json133928893314507941 0
@@ -3473,7 +3472,7 @@
 82C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_super_prop_base.mjs133928893315394827 0
 71C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\optimizer-html\src133928893329938081 1
 86C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_to_consumable_array.mjs133928893315414831 0
-59C:\Users\Lioped\Desktop\brunare\dist\pages.f2e5a18c.css.map133942107876476098 0
+59C:\Users\Lioped\Desktop\brunare\dist\pages.f2e5a18c.css.map133960838442923326 0
 79C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_to_primitive.mjs133928893315424832 0
 82C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_to_property_key.mjs133928893315424832 0
 93C:\Users\Lioped\Desktop\brunare\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs133928893315434834 0
@@ -3663,7 +3662,7 @@
 72C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\package.json133929042533442754 0
 79C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\createPopper.js133929042533471819 0
 84C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\createPopper.js.flow133929042533481822 0
-63C:\Users\Lioped\Desktop\brunare\dist\favicon-96x96.fa45e340.png133954830529123270 0
+63C:\Users\Lioped\Desktop\brunare\dist\favicon-96x96.fa45e340.png133960838442863301 0
 74C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\enums.d.ts133929042533481822 0
 74C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\index.d.ts133929042533501819 0
 80C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\popper-base.d.ts133929042533531829 0
@@ -3790,7 +3789,6 @@
 91C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\isScrollParent.js133929042534524398 0
 96C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\isScrollParent.js.flow133929042534534397 0
 93C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\isTableElement.d.ts133929042534534397 0
-56C:\Users\Lioped\Desktop\brunare\dist\mazak.6a368e1f.avif133942019526881142 0
 91C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\isTableElement.js133929042534544409 0
 96C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\isTableElement.js.flow133929042534544409 0
 99C:\Users\Lioped\Desktop\brunare\node_modules\@popperjs\core\lib\dom-utils\listScrollParents.js.flow133929042534565129 0
@@ -3955,7 +3953,7 @@
 63C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test133928893332241203 1
 82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test\collection.test.js133928893331903690 0
 78C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test\config.test.js133928893331923684 0
-52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\181.pdf133954830529143278 0
+52C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\181.pdf133960838442863301 0
 82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test\DefaultMap.test.js133928893331943684 0
 69C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test\input133928893332073685 1
 81C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\utils\test\sourcemap.test.js133928893332201201 0
@@ -4071,7 +4069,7 @@
 108C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133928893311258070 0
 120C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133928893310928073 0
 83C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\runtime-service-worker\LICENSE133928893323660151 0
-62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 551.pdf133954830530478755 0
+62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 551.pdf133960838442993294 0
 125C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133928893312431876 0
 95C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133928893312244874 1
 94C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133928893310788065 0
@@ -4207,7 +4205,7 @@
 79C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\index.d.ts133928893335209509 0
 72C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\lib133928893335209509 1
 76C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\LICENSE133928893334959506 0
-47C:\Users\Lioped\Desktop\brunare\dist\index.html133954831253249054 0
+47C:\Users\Lioped\Desktop\brunare\dist\index.html133960838442853304 0
 73C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\test133928893335129507 1
 82C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\test\fixtures133928893335149507 1
 100C:\Users\Lioped\Desktop\brunare\node_modules\@parcel\package-manager\test\NodePackageManager.test.js133928893335109499 0
@@ -4512,7 +4510,6 @@
 74C:\Users\Lioped\Desktop\brunare\node_modules\@lezer\common\dist\index.d.ts133928893310848078 0
 72C:\Users\Lioped\Desktop\brunare\node_modules\@lezer\common\dist\index.js133928893310638070 0
 65C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs133945322824499471 1
-66C:\Users\Lioped\Desktop\brunare\dist\descriere-procedu.dd4d9ee2.js133942783285222822 0
 64C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es133945322824760378 1
 69C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\LICENSE133945322823942227 0
 74C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\package.json133945322824589479 0
@@ -4527,9 +4524,9 @@
 93C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\isBlockedValueInParams133945322824780371 1
 81C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\isHeadless133945322824780371 1
 85C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\isLimitRateHit133945322824780371 1
-62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 925.pdf133954830530478755 0
+62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 925.pdf133960838443033308 0
 94C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\validateBlockListParams133945322824820369 1
-58C:\Users\Lioped\Desktop\brunare\dist\starrett.56f297d8.png133954830530498749 0
+58C:\Users\Lioped\Desktop\brunare\dist\starrett.56f297d8.png133960838443053314 0
 119C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\validateTemplateParams\validateTemplateParams.js133945322824579474 0
 103C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\validateParams\validateParams.js133945322824569477 0
 123C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\es\utils\validateLimitRateParams\validateLimitRateParams.d.ts133945322824830374 0
@@ -4582,7 +4579,6 @@
 94C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\methods\sendForm\sendForm.js133945322824459481 0
 86C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\methods\send\send.js133945322824439490 0
 90C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\errors\blockedEmailError133945322823962242 1
-55C:\Users\Lioped\Desktop\brunare\dist\pages.b76d7282.css133942785180686550 0
 86C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\errors\headlessError133945322824073476 1
 87C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\errors\limitRateError133945322824183509 1
 105C:\Users\Lioped\Desktop\brunare\node_modules\@emailjs\browser\cjs\errors\limitRateError\limitRateError.js133945322824183509 0
@@ -4609,38 +4605,27 @@
 60C:\Users\Lioped\Desktop\brunare\node_modules\.bin\semver.ps1133928893339427254 0
 72C:\Users\Lioped\Desktop\brunare\node_modules\.bin\update-browserslist-db133928893339427254 0
 76C:\Users\Lioped\Desktop\brunare\node_modules\.bin\update-browserslist-db.cmd133928893339427254 0
-66C:\Users\Lioped\Desktop\brunare\dist\apple-touch-icon.bb4effea.png133954830529123270 0
-64C:\Users\Lioped\Desktop\brunare\dist\Bahco_logo.svg.432aae4d.png133954830530142434 0
-57C:\Users\Lioped\Desktop\brunare\dist\bg-cogs.33d15431.jpg133954830530142434 0
-56C:\Users\Lioped\Desktop\brunare\dist\contact.13d043c6.js133942899795483836 0
-60C:\Users\Lioped\Desktop\brunare\dist\contact.13d043c6.js.map133942899795524392 0
-49C:\Users\Lioped\Desktop\brunare\dist\contact.html133954830530699519 0
-70C:\Users\Lioped\Desktop\brunare\dist\descriere-procedu.dd4d9ee2.js.map133942783286257908 0
-59C:\Users\Lioped\Desktop\brunare\dist\descriere-procedu.html133954830529849210 0
-57C:\Users\Lioped\Desktop\brunare\dist\favicon.3bf6b25c.ico133954830530478755 0
-57C:\Users\Lioped\Desktop\brunare\dist\favicon.c3d66290.png133945437244764068 0
-57C:\Users\Lioped\Desktop\brunare\dist\favicon.edd337dd.svg133954830530739493 0
-55C:\Users\Lioped\Desktop\brunare\dist\gears.d1292b84.png133954830530519489 0
-63C:\Users\Lioped\Desktop\brunare\dist\logoBlackFast.d3e6fc82.png133954830529123270 0
-56C:\Users\Lioped\Desktop\brunare\dist\mazak.1338c3fe.jpeg133942088860991354 0
-54C:\Users\Lioped\Desktop\brunare\dist\pages.0155c232.js133929141870339735 0
-58C:\Users\Lioped\Desktop\brunare\dist\pages.0155c232.js.map133929141871089744 0
-55C:\Users\Lioped\Desktop\brunare\dist\pages.19a64ffa.css133954830530699519 0
-59C:\Users\Lioped\Desktop\brunare\dist\pages.19a64ffa.css.map133954830530739493 0
-54C:\Users\Lioped\Desktop\brunare\dist\pages.6528c13b.js133954830530699519 0
-58C:\Users\Lioped\Desktop\brunare\dist\pages.6528c13b.js.map133954830530739493 0
-55C:\Users\Lioped\Desktop\brunare\dist\pages.8aa187b2.css133945301903345277 0
-59C:\Users\Lioped\Desktop\brunare\dist\pages.8aa187b2.css.map133945301903385246 0
-59C:\Users\Lioped\Desktop\brunare\dist\pages.b76d7282.css.map133942785180696554 0
-55C:\Users\Lioped\Desktop\brunare\dist\pages.f2e5a18c.css133942107875422179 0
-66C:\Users\Lioped\Desktop\brunare\dist\Sandvik-logo-new.14d1cf79.jpg133942088862542709 0
-57C:\Users\Lioped\Desktop\brunare\dist\sandvik.0237f27b.png133954830529143278 0
-80C:\Users\Lioped\Desktop\brunare\dist\Skyes-Pickavant_Small_Alt_NoBG.f61c8b71.png133954830529143278 0
-65C:\Users\Lioped\Desktop\brunare\dist\starrett-scaled.5261b838.jpg133942088861011369 0
-66C:\Users\Lioped\Desktop\brunare\dist\th_addison-mckee.d454beb3.png133954830529143278 0
-40C:\Users\Lioped\Desktop\brunare\dist\up_133945459350317032 1
-74C:\Users\Lioped\Desktop\brunare\dist\web-app-manifest-192x192.25d36828.png133954830529143278 0
-74C:\Users\Lioped\Desktop\brunare\dist\web-app-manifest-512x512.fb81eccf.png133954830530498749 0
-48C:\Users\Lioped\Desktop\brunare\dist\up_\favicon133954830530458740 1
-62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 181.pdf133954830529123270 0
-65C:\Users\Lioped\Desktop\brunare\dist\up_\favicon\site.webmanifest133954830529989206 0
+66C:\Users\Lioped\Desktop\brunare\dist\apple-touch-icon.bb4effea.png133960838442773314 0
+64C:\Users\Lioped\Desktop\brunare\dist\Bahco_logo.svg.432aae4d.png133960838442883308 0
+57C:\Users\Lioped\Desktop\brunare\dist\bg-cogs.33d15431.jpg133960838442813309 0
+49C:\Users\Lioped\Desktop\brunare\dist\contact.html133960838442853304 0
+59C:\Users\Lioped\Desktop\brunare\dist\descriere-procedu.html133960838442843305 0
+57C:\Users\Lioped\Desktop\brunare\dist\favicon.3bf6b25c.ico133960838442763311 0
+57C:\Users\Lioped\Desktop\brunare\dist\favicon.edd337dd.svg133960838443073308 0
+55C:\Users\Lioped\Desktop\brunare\dist\gears.d1292b84.png133960838443063305 0
+63C:\Users\Lioped\Desktop\brunare\dist\logoBlackFast.d3e6fc82.png133960838442773314 0
+54C:\Users\Lioped\Desktop\brunare\dist\pages.6528c13b.js133960838443129899 0
+58C:\Users\Lioped\Desktop\brunare\dist\pages.6528c13b.js.map133960838443159903 0
+55C:\Users\Lioped\Desktop\brunare\dist\pages.f2e5a18c.css133960838442853304 0
+57C:\Users\Lioped\Desktop\brunare\dist\products.b69ff13b.js133960838442903316 0
+61C:\Users\Lioped\Desktop\brunare\dist\products.b69ff13b.js.map133960838442933317 0
+50C:\Users\Lioped\Desktop\brunare\dist\products.html133960838442853304 0
+57C:\Users\Lioped\Desktop\brunare\dist\sandvik.0237f27b.png133960838442773314 0
+80C:\Users\Lioped\Desktop\brunare\dist\Skyes-Pickavant_Small_Alt_NoBG.f61c8b71.png133960838442773314 0
+66C:\Users\Lioped\Desktop\brunare\dist\th_addison-mckee.d454beb3.png133960838442873332 0
+40C:\Users\Lioped\Desktop\brunare\dist\up_133960838442763311 1
+74C:\Users\Lioped\Desktop\brunare\dist\web-app-manifest-192x192.25d36828.png133960838443033308 0
+74C:\Users\Lioped\Desktop\brunare\dist\web-app-manifest-512x512.fb81eccf.png133960838442813309 0
+48C:\Users\Lioped\Desktop\brunare\dist\up_\favicon133960838442873332 1
+62C:\Users\Lioped\Desktop\brunare\dist\up_\pdf\Blackfast 181.pdf133960838442873332 0
+65C:\Users\Lioped\Desktop\brunare\dist\up_\favicon\site.webmanifest133960838442843305 0
